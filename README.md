@@ -1,16 +1,14 @@
-# dashboard
+# Flutter Admin website dashboard
 
-A new Flutter project.
 
-## Getting Started
+Admin website dashboard Screenshots
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="[https://github.com/user-attachments/assets/8919a049-5376-4203-91df-69ffe814f34e](https://github.com/user-attachments/assets/99016bc4-e4eb-4456-a210-82f8cd777a32)" alt="home" width="30%" />
+  <img src="[https://github.com/user-attachments/assets/19dba818-0917-47a3-a76d-5c5b1f57fe52](https://github.com/user-attachments/assets/8940f0b0-a4de-4564-b973-90b98a693cc7)" alt="activity" width="30%" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
